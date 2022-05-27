@@ -1,0 +1,115 @@
+p{
+    text-align: justify;
+}
+.container-contenido{
+    background: url(../asset/EncabezadoBackground2.jpeg) no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.container-imagenes{
+    position: relative;
+    top: -150px;
+}
+
+.container-contenido-pregrado{
+    background: url(../asset/EncabezadoBackground3.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
+
+}
+/*Facultades*/
+.container-ciencias-exactas{
+    background: url(../asset/BackgroundCiencias.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
+}
+.container-ciencias-juridicas{
+    background: url(../asset/BackgroundJuridica.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+
+.container-ciencias-sociales-humanas{
+    background: url(../asset/EncabezadoBackgroundSocialesHumanas.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.container-economia-administracion{
+    background: url(../asset/EncabezadoBackgroundEconomiaYadministracion.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.container-educacion{
+    background: url(../asset/EncabezadoBackgroundEducacion.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.container-ingenieria{
+    background: url(../asset/EncabezadoBackgroundIngenieria.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.container-salud{
+    background: url(../asset/EncabezadoBackgroundSalud.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+
+/*Programas*/
+.container-ciencias-exactas-progFisica{
+    background: url(../asset/EncabezadoBackgroundFisica.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
+
+}
+.container-ciencias-exactas-progBiologia{
+    background: url(../asset/EncabezadoBackgroundBiologia.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
+
+}
+.container-ciencias-juridicas-politicas-progDerecho{
+    background: url(../asset/EncabezadoBackgroundDerecho.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
+
+}
+
+.container-ciencias-juridicas-politicas-progPolitica{
+    background: url(../asset/EncabezadoBackgroundPolitica.png) no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.container-ciencias-sociales-humanas-progAntropologia{
+    background: url(../asset/EncabezadoBackgroundAntropologia.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.container-ciencias-sociales-humanas-psicologia{
+    background: url(../asset/EncabezadoBackgroundPsicologia.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.container-economia{
+    background: url(../asset/ElementEconomia.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.container-Administracion{
+    background: url(../asset/EncabezadoBackgroundAdministracion.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+
